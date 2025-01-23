@@ -1,7 +1,7 @@
 export const aboutMeData = [
   {
     id: 1,
-    bio: "Hi, I am Gemong - energetic, dependable and an innovative problem solver. I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews with a strong background in creating visually appealing, user-friendly and responsive dynamic web applications along with a passion for staying up-to-date with the latest web development trends.",
+    bio: "Hi, I am Gemong - energetic, dependable and an innovative problem solver. I am proficient in HTML, CSS, and JavaScript, which allows me to create interactive, responsive, and visually appealing user interfaces. I have a strong attention to detail, ensuring that every element on a webpage aligns perfectly and adheres to design guidelines. Additionally, I'm highly adaptable and always eager to learn new technologies and framework. I am passionate about staying up-to-date with the latest web development trends.",
   },
   {
     id: 2,
